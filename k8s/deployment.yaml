@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: petclinic
-          image: 897722691159.dkr.ecr.ap-northeast-2.amazonaws.com/shham-cluster-repo:6aa22bb3030d0f27dcb702535b73b7240a85ecea
+          image: 897722691159.dkr.ecr.ap-northeast-2.amazonaws.com/shham-cluster-repo:424087c4a2a1cf1e87410af468caf27f2fb94271
           ports:
             - containerPort: 8080
           resources:
